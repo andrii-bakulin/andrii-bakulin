@@ -23,7 +23,7 @@ I'm Games & Software Developer.
 [![Nails: Escape The Trap!](https://andrii-bakulin.github.io/images/unity-nails.png)](https://i.bakulin.co/nails)
 [![Asteroids Blast](https://andrii-bakulin.github.io/images/unity-asteroids-blast.png)](https://i.bakulin.co/asteroids-blast)
 
-#### How to reach me
+#### Connect with me
 
 [![Facebook](https://andrii-bakulin.github.io/images/icons/facebook.png)](https://i.bakulin.co/facebook)
 [![LinkedIn](https://andrii-bakulin.github.io/images/icons/linkedin.png)](https://i.bakulin.co/linkedin)
