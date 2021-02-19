@@ -26,7 +26,7 @@ I'm Games & Software Developer.
 
 ## DustEngine Demos
 
-<a href="https://vimeo.com/497176247/"><img src="https://andrii-bakulin.github.io/img/unity-dust-eyes.png" width="166" alt="Dust: Eyes" /></a>
+<a href="https://i.bakulin.co/dust-eyes"><img src="https://andrii-bakulin.github.io/img/unity-dust-eyes.png" width="166" alt="Dust: Eyes" /></a>
 
 #### Connect with me
 
