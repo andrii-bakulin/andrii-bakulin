@@ -20,13 +20,24 @@ I'm Games & Software Developer.
 ## Latest Unity Projects
 
 <a href="https://i.bakulin.co/dust"><img src="https://andrii-bakulin.github.io/img/unity-dust.png" width="166" alt="DustEngine for Unity" /></a>
-<a href="https://i.bakulin.co/nails"><img src="https://andrii-bakulin.github.io/img/unity-nails.png" width="166" alt="Nails: Escape The Trap!" /></a>
-<a href="https://i.bakulin.co/asteroids-blast"><img src="https://andrii-bakulin.github.io/img/unity-asteroids-blast-vr.png?4" width="166" alt="Asteroids Blast" /></a>
-<!-- <a href=""><img src="" width="166" alt="" /></a> -->
+<a href="https://i.bakulin.co/nails"><img src="https://andrii-bakulin.github.io/img/nails.png" width="166" alt="Nails: Escape The Trap!" /></a>
+<a href="https://i.bakulin.co/asteroids-blast"><img src="https://andrii-bakulin.github.io/img/asteroids-blast.png" width="166" alt="Asteroids Blast" /></a>
+<a href="https://i.bakulin.co/asteroids-blast-vr"><img src="https://andrii-bakulin.github.io/img/asteroids-blast-vr.png" width="166" alt="Asteroids Blast VR" /></a>
 
 ## DustEngine Demos
 
 <a href="https://i.bakulin.co/dust-eyes"><img src="https://andrii-bakulin.github.io/img/unity-dust-eyes.png" width="166" alt="Dust: Eyes" /></a>
+
+## Cocos2d-x Projects
+
+<a href="https://i.bakulin.co/slots-vip"><img src="https://andrii-bakulin.github.io/img/slots-vip.png" width="166" alt="VIP Slots Club (50+ games)" /></a>
+<a href="https://i.bakulin.co/slots-da"><img src="https://andrii-bakulin.github.io/img/slots-da.png" width="166" alt="Slots Divine Academy" /></a>
+<a href="https://i.bakulin.co/sunny-seeds"><img src="https://andrii-bakulin.github.io/img/sunny-seeds.png?1" width="166" alt="Sunny Seeds" /></a>
+<a href="https://i.bakulin.co/nonogramz"><img src="https://andrii-bakulin.github.io/img/nonogramz.png?1" width="166" alt="NonogramZ" /></a>
+
+<!--
+<a href="https://i.bakulin.co/"><img src="https://andrii-bakulin.github.io/img/" width="166" alt="" /></a>
+-->
 
 #### Connect with me
 
