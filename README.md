@@ -29,4 +29,5 @@ I'm Games & Software Developer.
 [![LinkedIn](https://andrii-bakulin.github.io/images/icons/linkedin.png)](https://i.bakulin.co/linkedin)
 [![Instagram](https://andrii-bakulin.github.io/images/icons/instagram.png)](https://i.bakulin.co/instagram)
 [![YouTube](https://andrii-bakulin.github.io/images/icons/youtube.png)](https://i.bakulin.co/youtube)
+[![Vimeo](https://andrii-bakulin.github.io/images/icons/vimeo.png)](https://i.bakulin.co/vimeo)
 [![Twitter](https://andrii-bakulin.github.io/images/icons/twitter.png)](https://i.bakulin.co/twitter)
