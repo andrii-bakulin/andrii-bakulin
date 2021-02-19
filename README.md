@@ -19,15 +19,16 @@ I'm Games & Software Developer.
 
 ## Unity Projects
 
-[![DustEngine for Unity](https://andrii-bakulin.github.io/images/unity-dust.png)](https://i.bakulin.co/dust) 
-[![Nails: Escape The Trap!](https://andrii-bakulin.github.io/images/unity-nails.png)](https://i.bakulin.co/nails)
-[![Asteroids Blast](https://andrii-bakulin.github.io/images/unity-asteroids-blast.png)](https://i.bakulin.co/asteroids-blast)
+<a href="https://i.bakulin.co/dust"><img src="https://andrii-bakulin.github.io/img/unity-dust.png" width="166" alt="DustEngine for Unity" /></a>
+<a href="https://i.bakulin.co/nails"><img src="https://bakulin.github.io/img/unity-nails.png" width="166" alt="Nails: Escape The Trap!" /></a>
+<a href="https://i.bakulin.co/asteroids-blast"><img src="https://bakulin.github.io/img/unity-asteroids-blast.png" width="166" alt="Asteroids Blast" /></a>
+<!-- <a href=""><img src="" width="166" alt="" /></a> -->
 
 #### Connect with me
 
-[![Facebook](https://andrii-bakulin.github.io/images/icons/facebook.png)](https://i.bakulin.co/facebook)
-[![LinkedIn](https://andrii-bakulin.github.io/images/icons/linkedin.png)](https://i.bakulin.co/linkedin)
-[![Instagram](https://andrii-bakulin.github.io/images/icons/instagram.png)](https://i.bakulin.co/instagram)
-[![YouTube](https://andrii-bakulin.github.io/images/icons/youtube.png)](https://i.bakulin.co/youtube)
-[![Vimeo](https://andrii-bakulin.github.io/images/icons/vimeo.png)](https://i.bakulin.co/vimeo)
-[![Twitter](https://andrii-bakulin.github.io/images/icons/twitter.png)](https://i.bakulin.co/twitter)
+<a href="https://i.bakulin.co/facebook"><img src="https://bakulin.github.io/img/icons/facebook.png" width="32" alt="Facebook" /></a>
+<a href="https://i.bakulin.co/linkedin"><img src="https://bakulin.github.io/img/icons/linkedin.png" width="32" alt="LinkedIn" /></a>
+<a href="https://i.bakulin.co/instagram"><img src="https://bakulin.github.io/img/icons/instagram.png" width="32" alt="Instagram" /></a>
+<a href="https://i.bakulin.co/youtube"><img src="https://bakulin.github.io/img/icons/youtube.png" width="32" alt="YouTube" /></a>
+<a href="https://i.bakulin.co/vimeo"><img src="https://bakulin.github.io/img/icons/vimeo.png" width="32" alt="Vimeo" /></a>
+<a href="https://i.bakulin.co/twitter"><img src="https://bakulin.github.io/img/icons/twitter.png" width="32" alt="Twitter" /></a>
