@@ -17,7 +17,7 @@ I'm Games & Software Developer.
 - Frontend & Backend: PHP, MySQL, PostgreSQL, Redis, memcached, Fat Free Framework, Yii Framework, HTML/JS/CSS, jQuery, nginx
 - Graphic: Cinema 4D, Octane Render, Houdini (*basic, with connection to Unity*), Photoshop
 
-## Latest Unity Projects
+## Latest Unity projects
 
 <a href="https://i.bakulin.co/dust"><img src="https://andrii-bakulin.github.io/img/unity-dust.png" width="166" alt="DustEngine for Unity" /></a>
 <a href="https://i.bakulin.co/nails"><img src="https://andrii-bakulin.github.io/img/nails.png" width="166" alt="Nails: Escape The Trap!" /></a>
@@ -25,11 +25,11 @@ I'm Games & Software Developer.
 <a href="https://i.bakulin.co/asteroids-blast-vr"><img src="https://andrii-bakulin.github.io/img/asteroids-blast-vr.png" width="166" alt="Asteroids Blast" /></a>
 <a href="https://i.bakulin.co/coins-dozer-gamekit"><img src="https://andrii-bakulin.github.io/img/coins-dozer-gamekit.png" width="166" alt="Dozer GameKit" /></a>
 
-## DustEngine Demos
+## DustEngine demos
 
 <a href="https://i.bakulin.co/dust-eyes"><img src="https://andrii-bakulin.github.io/img/unity-dust-eyes.png" width="166" alt="Dust: Eyes" /></a>
 
-## Cocos2d-x Projects
+## Cocos2d-x projects
 
 <a href="https://i.bakulin.co/slots-vip"><img src="https://andrii-bakulin.github.io/img/slots-vip.png" width="166" alt="VIP Slots Club (50+ games)" /></a>
 <a href="https://i.bakulin.co/slots-da"><img src="https://andrii-bakulin.github.io/img/slots-da.png" width="166" alt="Slots Divine Academy" /></a>
@@ -37,7 +37,7 @@ I'm Games & Software Developer.
 <a href="https://i.bakulin.co/nonogramz"><img src="https://andrii-bakulin.github.io/img/nonogramz.png?1" width="166" alt="NonogramZ" /></a>
 <a href="https://i.bakulin.co/5elements"><img src="https://andrii-bakulin.github.io/img/five-elements.png" width="166" alt="Five Elements" /></a>
 
-## Cinema4D Projects
+## Cinema4D projects
 
 <a href="https://i.bakulin.co/c4d-portal"><img src="https://andrii-bakulin.github.io/img/c4d-portal.png" width="166" alt="" /></a>
 <a href="https://i.bakulin.co/c4d-hologram-human"><img src="https://andrii-bakulin.github.io/img/c4d-hologram-human.png" width="166" alt="" /></a>
