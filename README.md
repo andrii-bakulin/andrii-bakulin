@@ -21,7 +21,7 @@ I'm Games & Software Developer.
 
 <a href="https://i.bakulin.co/dust"><img src="https://andrii-bakulin.github.io/img/unity-dust.png" width="166" alt="DustEngine for Unity" /></a>
 <a href="https://i.bakulin.co/nails"><img src="https://andrii-bakulin.github.io/img/unity-nails.png" width="166" alt="Nails: Escape The Trap!" /></a>
-<a href="https://i.bakulin.co/asteroids-blast"><img src="https://andrii-bakulin.github.io/img/unity-asteroids-blast.png" width="166" alt="Asteroids Blast" /></a>
+<a href="https://i.bakulin.co/asteroids-blast"><img src="https://andrii-bakulin.github.io/img/unity-asteroids-blast-vr.png" width="166" alt="Asteroids Blast" /></a>
 <!-- <a href=""><img src="" width="166" alt="" /></a> -->
 
 ## DustEngine Demos
