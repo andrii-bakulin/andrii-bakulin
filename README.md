@@ -50,6 +50,19 @@ I'm Games & Software Developer.
 <a href="https://go.andriibakulin.com/"><img src="https://andrii-bakulin.github.io/img/.png" width="166" alt="" /></a>
 -->
 
+## NFTs Projects @Tezos
+
+- <a href="https://www.fxhash.xyz/u/andriibakulin">Generative Art @fx(hash)</a>
+- <a href="https://teia.art/skullz.tez">SkullZ.tez @teia.art</a>
+- <a href="https://objkt.com/collection/KT1GMHKDGvWcXvg78emLBsZBmdCpFbeqjpsU">SkullZ.tez | 2.0 @objkt.com</a>
+- <a href="https://objkt.com/profile/cryptonoises/created">CryptoNoises @objkt.com</a>
+
+## NFTs Projects @Ethereum
+
+- <a href="https://foundation.app/@andriibakulin">@Foundation</a>
+- <a href="https://rarible.com/andrii-bakulin/secondary">@Rarible</a>
+- <a href="https://opensea.io/collection/timenft-official">Time.NFT @OpenSea</a>
+
 #### Connect with me
 
 <a href="https://go.andriibakulin.com/facebook"><img src="https://andrii-bakulin.github.io/img/icons/facebook.png" width="32" alt="Facebook" /></a>
