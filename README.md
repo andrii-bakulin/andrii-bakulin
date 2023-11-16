@@ -35,7 +35,7 @@ I'm Games & Software Developer.
 <a href="https://go.andriibakulin.com/slots-da"><img src="https://andrii-bakulin.github.io/img/slots-da.png" width="166" alt="Slots Divine Academy" /></a>
 <a href="https://go.andriibakulin.com/sunny-seeds"><img src="https://andrii-bakulin.github.io/img/sunny-seeds.png?v2" width="166" alt="Sunny Seeds" /></a>
 <a href="https://go.andriibakulin.com/nonogramz"><img src="https://andrii-bakulin.github.io/img/nonogramz.png?v2" width="166" alt="NonogramZ" /></a>
-<a href="https://go.andriibakulin.com/5elements"><img src="https://andrii-bakulin.github.io/img/five-elements.png" width="166" alt="Five Elements" /></a>
+<!-- <a href="https://go.andriibakulin.com/5elements"><img src="https://andrii-bakulin.github.io/img/five-elements.png" width="166" alt="Five Elements" /></a> -->
 
 ## Cinema4D | Houdini projects
 
