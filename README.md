@@ -67,7 +67,7 @@ I'm Games & Software Developer.
 
 <a href="https://go.andriibakulin.com/linkedin"><img src="https://andrii-bakulin.github.io/img/icons/linkedin.png" width="32" alt="LinkedIn" /></a>
 <a href="https://go.andriibakulin.com/facebook"><img src="https://andrii-bakulin.github.io/img/icons/facebook.png" width="32" alt="Facebook" /></a>
-<!-- <a href="https://go.andriibakulin.com/instagram"><img src="https://andrii-bakulin.github.io/img/icons/instagram.png" width="32" alt="Instagram" /></a> -->
-<!-- <a href="https://go.andriibakulin.com/youtube"><img src="https://andrii-bakulin.github.io/img/icons/youtube.png" width="32" alt="YouTube" /></a> -->
 <a href="https://go.andriibakulin.com/vimeo"><img src="https://andrii-bakulin.github.io/img/icons/vimeo.png" width="32" alt="Vimeo" /></a>
 <a href="https://go.andriibakulin.com/twitter"><img src="https://andrii-bakulin.github.io/img/icons/twitter.png" width="32" alt="Twitter" /></a>
+<!-- <a href="https://go.andriibakulin.com/instagram"><img src="https://andrii-bakulin.github.io/img/icons/instagram.png" width="32" alt="Instagram" /></a> -->
+<!-- <a href="https://go.andriibakulin.com/youtube"><img src="https://andrii-bakulin.github.io/img/icons/youtube.png" width="32" alt="YouTube" /></a> -->
