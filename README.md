@@ -50,6 +50,7 @@ I'm Games & Software Developer.
 <a href="https://go.andriibakulin.com/"><img src="https://andrii-bakulin.github.io/img/.png" width="166" alt="" /></a>
 -->
 
+<!-- 
 ## NFTs Projects @Tezos
 
 - <a href="https://www.fxhash.xyz/u/andriibakulin">Generative Art @fx(hash)</a>
@@ -62,6 +63,7 @@ I'm Games & Software Developer.
 - <a href="https://foundation.app/@andriibakulin">@Foundation</a>
 - <a href="https://rarible.com/andrii-bakulin/secondary">@Rarible</a>
 - <a href="https://opensea.io/collection/timenft-official">Time.NFT @OpenSea</a>
+-->
 
 #### Connect with me
 
