@@ -6,24 +6,30 @@ I'm Games & Software Developer.
 
 - Game Engines: Unity, cocos2d-x
 - Unity tools: Amplify Shader, Vuforia (AR), Steam VR / Oculus GO, Cinemachine, Anti-Cheat Toolkit, Unity IAP, Post Processing
-- Publishing for: iOS, Android (Google Play & UDP), Windows Store, MacOS, Oculus Store (Gear/GO), AppleTV
+- Publishing for iOS, Android (Google Play & UDP), Windows Store, MacOS, Oculus Store (Gear/GO), AppleTV
 - Languages & Tools: C#, C++, Obj-C, Java, Python, CUnit, Git, Mercurial
 
 #### I'm experienced in:
 
-- Creating Unity Components (check [Dust for Unity](https://go.andriibakulin.com/dust))
-- Creating Unity GUI Components (check [Dust for Unity](https://go.andriibakulin.com/dust), [DustGUI](https://go.andriibakulin.com/dustgui))
 - Integration of native Ads SDK: AdMob, AdColony, AppLovin, Chartboost, Facebook Ads & Unity Ads (and many others)
 - Frontend & Backend: PHP, MySQL, PostgreSQL, Redis, memcached, Fat Free Framework, Yii Framework, HTML/JS/CSS, jQuery, nginx
 - Graphic: Cinema 4D, Octane Render, Houdini (*basic, with connection to Unity*), Photoshop
+
+#### Projects:
+
+- [Dust for Unity](https://go.andriibakulin.com/dust) - a suite of powerful 80+ components for Unity, enabling developers to easily build, animate, and interact with objects in scenes with zero code.
+- [DustGUI](https://go.andriibakulin.com/dustgui) - an extended GUI library for Unity that simplifies UI element creation and management.
+- [CryptoNoises](https://cryptonoises.com/) - Your Assistant in Tezos. CryptoNoises is a Bot for Discord and Telegram that analyzes Tezos Blockchain and informs you about your activity and the activity of other users.
 
 ## Latest Unity projects
 
 <a href="https://go.andriibakulin.com/dust"><img src="https://andrii-bakulin.github.io/img/unity-dust.png" width="166" alt="Dust for Unity" /></a>
 <a href="https://go.andriibakulin.com/nails"><img src="https://andrii-bakulin.github.io/img/nails.png" width="166" alt="Nails: Escape The Trap!" /></a>
 <a href="https://go.andriibakulin.com/asteroids-blast"><img src="https://andrii-bakulin.github.io/img/asteroids-blast.png" width="166" alt="Asteroids Blast" /></a>
-<a href="https://go.andriibakulin.com/asteroids-blast-vr"><img src="https://andrii-bakulin.github.io/img/asteroids-blast-vr.png" width="166" alt="Asteroids Blast" /></a>
 <a href="https://go.andriibakulin.com/coins-dozer-gamekit"><img src="https://andrii-bakulin.github.io/img/coins-dozer-gamekit.png" width="166" alt="Dozer GameKit" /></a>
+<!--
+<a href="https://go.andriibakulin.com/asteroids-blast-vr"><img src="https://andrii-bakulin.github.io/img/asteroids-blast-vr.png" width="166" alt="Asteroids Blast" /></a>
+-->
 
 ## Dust demos
 
