@@ -11,21 +11,21 @@ I'm Games & Software Developer.
 
 #### I'm experienced in:
 
-- Creating Unity Components (check [DustEngine for Unity](https://go.andriibakulin.com/dust))
-- Creating Unity GUI Components (check [DustEngine for Unity](https://go.andriibakulin.com/dust), [DustGUI](https://go.andriibakulin.com/dustgui))
-- Integration of native Ads SDK: AdMob, AdColony, AppLovin, Chartboost, Facebook Ads & Unity Ads (and many-many others)
+- Creating Unity Components (check [Dust for Unity](https://go.andriibakulin.com/dust))
+- Creating Unity GUI Components (check [Dust for Unity](https://go.andriibakulin.com/dust), [DustGUI](https://go.andriibakulin.com/dustgui))
+- Integration of native Ads SDK: AdMob, AdColony, AppLovin, Chartboost, Facebook Ads & Unity Ads (and many others)
 - Frontend & Backend: PHP, MySQL, PostgreSQL, Redis, memcached, Fat Free Framework, Yii Framework, HTML/JS/CSS, jQuery, nginx
 - Graphic: Cinema 4D, Octane Render, Houdini (*basic, with connection to Unity*), Photoshop
 
 ## Latest Unity projects
 
-<a href="https://go.andriibakulin.com/dust"><img src="https://andrii-bakulin.github.io/img/unity-dust.png" width="166" alt="DustEngine for Unity" /></a>
+<a href="https://go.andriibakulin.com/dust"><img src="https://andrii-bakulin.github.io/img/unity-dust.png" width="166" alt="Dust for Unity" /></a>
 <a href="https://go.andriibakulin.com/nails"><img src="https://andrii-bakulin.github.io/img/nails.png" width="166" alt="Nails: Escape The Trap!" /></a>
 <a href="https://go.andriibakulin.com/asteroids-blast"><img src="https://andrii-bakulin.github.io/img/asteroids-blast.png" width="166" alt="Asteroids Blast" /></a>
 <a href="https://go.andriibakulin.com/asteroids-blast-vr"><img src="https://andrii-bakulin.github.io/img/asteroids-blast-vr.png" width="166" alt="Asteroids Blast" /></a>
 <a href="https://go.andriibakulin.com/coins-dozer-gamekit"><img src="https://andrii-bakulin.github.io/img/coins-dozer-gamekit.png" width="166" alt="Dozer GameKit" /></a>
 
-## DustEngine demos
+## Dust demos
 
 <a href="https://go.andriibakulin.com/dust-eyes"><img src="https://andrii-bakulin.github.io/img/unity-dust-eyes.png?v2" width="166" alt="Dust: Eyes" /></a>
 
